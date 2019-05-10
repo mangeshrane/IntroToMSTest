@@ -1,0 +1,7 @@
+D:\VisualStudioWorkspace\SeleniumWebdriver\WebdriverTest\bin\Debug\WebdriverTest.dll
+D:\VisualStudioWorkspace\SeleniumWebdriver\WebdriverTest\bin\Debug\WebdriverTest.pdb
+D:\VisualStudioWorkspace\SeleniumWebdriver\WebdriverTest\bin\Debug\WebDriver.dll
+D:\VisualStudioWorkspace\SeleniumWebdriver\WebdriverTest\bin\Debug\WebDriver.xml
+D:\VisualStudioWorkspace\SeleniumWebdriver\WebdriverTest\obj\Debug\WebdriverTest.csprojResolveAssemblyReference.cache
+D:\VisualStudioWorkspace\SeleniumWebdriver\WebdriverTest\obj\Debug\WebdriverTest.dll
+D:\VisualStudioWorkspace\SeleniumWebdriver\WebdriverTest\obj\Debug\WebdriverTest.pdb
